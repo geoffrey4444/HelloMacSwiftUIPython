@@ -6,7 +6,7 @@ Specifically, the app imports numpy, makes an array, converts it to a python str
 converts that to a swift string, and then prints the result to the console.
 
 This project can be used as a starting point for writing a SwiftUI macOS app
-that uses python for calculations ans SwiftUI for the user interface.
+that uses python for calculations and SwiftUI for the user interface.
 
 To build and run yourself, you'll need to edit the environment variables in the target. 
 Set `PYTHONHOME` to the location of your python distribution, and set 
